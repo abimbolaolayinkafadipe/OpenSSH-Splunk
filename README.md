@@ -64,7 +64,7 @@ I’m actively pursuing a **SOC Analyst (Level 1)** role in the UK, with a focus
 ---
 
 ## 📫 Contact
-**LinkedIn:** (https://www.linkedin.com/in/abimbola-olayinka-fadipe)  
+**LinkedIn:** (https://www.linkedin.com/in/abimboladavid) 
 **Email:** (abimbolaolayinkafadipe@gmail.com)
 
 ---
