@@ -1,4 +1,4 @@
-# Hi, I'm Abimbola 👋  
+# Hi, I'm Abimbola   
 ### SOC Analyst | Security Operations | SIEM | Threat Detection
 
 I'm a hands-on, lab-driven cybersecurity professional focused on SOC analysis, threat detection, and security monitoring.  
@@ -6,7 +6,7 @@ I build real-world projects using Splunk, Kali Linux, Windows Server, and networ
 
 ---
 
-## 🔐 Core Skills
+##  Core Skills
 - SIEM: Splunk (SPL, dashboards, correlation searches), Elastic, Sentinel  
 - SOC Analysis: Log analysis, alert triage, incident investigation  
 - Threat Detection: Brute-force, malware behaviour, network anomalies  
@@ -16,45 +16,45 @@ I build real-world projects using Splunk, Kali Linux, Windows Server, and networ
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🔎 **Splunk SOC Investigation – OpenSSH Brute Force Attack**
+###  **Splunk SOC Investigation – OpenSSH Brute Force Attack**
 **Skills demonstrated:**  
 - SPL queries, dashboards, correlation logic  
 - Investigating authentication failures  
 - Identifying attacker IPs and patterns  
 - SOC-style reporting with screenshots  
 
-📁 Repo: *OpenSSH-Splunk Investigation*  
-📝 Shows real SOC workflow from alert → analysis → conclusion.
+Repo: *OpenSSH-Splunk Investigation*  
+Shows real SOC workflow from alert → analysis → conclusion.
 
 ---
 
-### 🌐 **Network Infrastructure Project – DHCP & Multi‑Subnet Design**
+### **Network Infrastructure Project – DHCP & Multi‑Subnet Design**
 **Skills demonstrated:**  
 - Designing and configuring a multi‑subnet network  
 - DHCP scopes, reservations, and IP planning  
 - Windows Server configuration  
 - Understanding enterprise network layouts  
 
-📁 Repo: *DHCP-Network-Design*  
-📝 Shows strong networking fundamentals essential for SOC roles.
+ Repo: *DHCP-Network-Design*  
+Shows strong networking fundamentals essential for SOC roles.
 
 ---
 
-### 🛡️ **2PK Security Project**
+###  **2PK Security Project**
 **Skills demonstrated:**  
 - Security hardening  
 - Access control  
 - Practical system configuration  
 - Documentation and reporting  
 
-📁 Repo: *2PK-Project*  
-📝 Demonstrates hands-on security implementation.
+ Repo: *2PK-Project*  
+Demonstrates hands-on security implementation.
 
 ---
 
-## 🎯 Career Goal
+##  Career Goal
 I’m actively pursuing a **SOC Analyst (Level 1)** role in the UK, with a focus on:  
 - SIEM monitoring  
 - Threat detection  
@@ -63,10 +63,10 @@ I’m actively pursuing a **SOC Analyst (Level 1)** role in the UK, with a focus
 
 ---
 
-## 📫 Contact
+##  Contact
 **LinkedIn:** (https://www.linkedin.com/in/abimboladavid) 
 **Email:** (abimbolaolayinkafadipe@gmail.com)
 
 ---
 
-### ⭐ Always building, learning, and improving.
+### Always building, learning, and improving.
